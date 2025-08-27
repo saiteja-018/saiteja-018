@@ -37,14 +37,13 @@
 
 ## 📊 GitHub Stats  
 
-![Sai Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![Sai Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiteja-018&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-018&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=saiteja-018&theme=tokyonight&no-frame=true&margin-w=15)
+
 
 ---
 
