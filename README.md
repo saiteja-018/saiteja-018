@@ -1,16 +1,13 @@
-## Hi there 👋
+🚀 About Me
 
-<!--
-**saiteja-018/saiteja-018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm Sai Teja, a passionate developer and learner who enjoys building meaningful projects and exploring new technologies.
 
-Here are some ideas to get you started:
+💻 Currently learning Full-Stack Development / Data Science / AI-ML (adjust as per your focus)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Always curious about open-source, optimization, and problem-solving
+
+⚡ Love working on real-world projects that combine creativity and functionality
+
+🛠️ Tech stack I’m comfortable with: Python | JavaScript | React | Node.js | SQL | Git (adjust as needed)
+
+🎯 Goal: To become a skilled Software Engineer who builds scalable and impactful solutions
