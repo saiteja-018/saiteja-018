@@ -42,7 +42,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-018&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=saiteja-018&theme=tokyonight&no-frame=true&margin-w=15)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saiteja-018&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ---
